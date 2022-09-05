@@ -1,0 +1,34 @@
+<Chapter05>
+
+design_1_axi_ethernetlite_0_0_synth_1 새로운 파일에서는 삭제
+design_1_axi_quad_spi_0_0_synth_1 새로운 파일에서는 삭제
+design_1_dlmb_bram_if_cntlr_0_synth_1 새로운 파일에서는 삭제
+design_1_ilmb_bram_if_cntlr_0_synth_1 새로운 파일에서는 삭제
+design_1_microblaze_0_axi_intc_0_synth_1 새로운 파일에서는 삭제
+design_1_rst_mig_7series_0_83M_0_synth_1 새로운 파일에서는 삭제
+-----------------------------------------------------------------
+oscilloscope-software_system_Debug.build.ui.log 삭제
+
+
+
+
+<Chapter06>
+
+새로운 파일에서는 Littelfuse-GTCC23-XXXM-R01-2-Series-GDT.kicad_mod 삭제
+----------------------------------------------------------------
+
+
+
+<Chapter08>
+
+org.eclipse.ui.workbench.texteditor 새로운 파일에서는 삭제
+-----------------------------------------------------------------------------
+oscilloscope-software_Debug.build.ui.log 새로운 파일에서는 삭제
+-----------------------------------------------------------------------------
+oscilloscope-software_system_Debug.build.ui.log 새로운 파일에서는 삭제
+
+
+
+
+
+
